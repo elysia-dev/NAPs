@@ -11,11 +11,9 @@ Date Created: 2021-09-30 (KST)
 Date Updated: -
 
 # Summary
----
 This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a commercial mortgage loan.
 #
 # Author's Information
----
 >Name: Elyloan Corp
 Corporation Registration Number: 220111-0189192
 Wallet Address: 0x9FCdc09bF1e0f933e529325Ac9D24f56034d8eD7
@@ -23,7 +21,6 @@ Website: https://elyloan.co.kr/
 Introduction in brief: We are Elyloan Corp, a lending company. We are in the Lending-Company group in this forum that has been authorized to submit proposals in the NAP category and also put on agendas on the ELYFI voting portal.
 
 # Proposal Details
----
 ### NFT Type 
 >- ABToken
 
@@ -58,7 +55,6 @@ Introduction in brief: We are Elyloan Corp, a lending company. We are in the Len
 >- ipfsHash: [bafkreiedyt3fjeqnli52fdhpsfguk6zxzk4eddsekkjv3eckiqqwlkcogu](https://slate.textile.io/ipfs/bafkreiedyt3fjeqnli52fdhpsfguk6zxzk4eddsekkjv3eckiqqwlkcogu)
 
 # Reference
----
 ### Document
 >- [Contract image](https://slate.textile.io/ipfs/bafybeig7ucnwb5evnigjua33gqowx54krbnjvterlqrakuy45huyfmzz5m) 
 >- [Real estate registration information](https://slate.textile.io/ipfs/bafkreiei23lnkedef6bcsln76ng62pw5x4vczr3e45hrpzuydu5l7552ea)
