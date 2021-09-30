@@ -8,12 +8,8 @@ NAP is a framework for the stable operation, development and improvement of real
 
 All NFT Approvement Proposals and their status are archived in the NAPs repository. 
 
-## NAP Template
-
-- https://github.com/elysia-dev/NAPs/blob/main/Template
-
 ## Resources
-
+- [NAP Template](https://github.com/elysia-dev/NAPs/blob/main/Template)
 - [ELYFI NAPs Forum](https://forum.elyfi.world/c/nap/10)
 - [ELYFI Governance FAQ](https://elysia.gitbook.io/elyfi-governance-faq/)
 - [ELYFI Docs](https://elyfi-docs.elysia.land/v/eng/)
