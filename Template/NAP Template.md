@@ -4,23 +4,23 @@ This is the template for NAP. Proposals will be subject to review after completi
 
 # Introduction
 
-> NAP#: < number to be assigned by Helper. During the RFV stage, it will be represented as ‘#’. >
-> Title: < Title of the proposal >
-> Author: < Name >
-> Helper: < List of names who helped the author in the Helper group >
-> Status: < Status of the proposal >
-> Date Created: <Date when the proposal is posted by the author. {yyyy-mm-dd}>
-> Date Updated: <Date when the proposal was last updated. {yyyy-mm-dd} >
+>- NAP#: < number to be assigned by Helper. During the RFV stage, it will be represented as ‘#’. >
+>- Title: < Title of the proposal >
+>- Author: < Name >
+>- Helper: < List of names who helped the author in the Helper group >
+>- Status: < Status of the proposal >
+>- Date Created: <Date when the proposal is posted by the author. {yyyy-mm-dd}>
+>- Date Updated: <Date when the proposal was last updated. {yyyy-mm-dd} >
 
 # Summary
 < Please summarize the proposal less than 100 characters >
 #
 # Author's Information
-> Name: < The name of the company >
-> Corporation Registration Number: < Corporation Registration Number >
-> Wallet Address: < Wallet Address used in ELYFI >
-> Website: < The web address of the author, a lending company >
-> Introduction in brief: < Introduction in brief >
+>- Name: < The name of the company >
+>- Corporation Registration Number: < Corporation Registration Number >
+>- Wallet Address: < Wallet Address used in ELYFI >
+>- Website: < The web address of the author, a lending company >
+>- Introduction in brief: < Introduction in brief >
 
 # Proposal Details
 ### NFT Type 
