@@ -2,23 +2,23 @@
 
 # Introduction
 
->NAP#: 1
-Title: Request for verification for ABToken
-Author: [Elyloan Corp](https://forum.elyfi.world/u/elyloancorp/summary)
-Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
-Status: RFV
-Date Created: 2021-09-30 (KST)
-Date Updated: -
+>- NAP#: 1
+>- Title: Request for verification for ABToken
+>- Author: [Elyloan Corp](https://forum.elyfi.world/u/elyloancorp/summary)
+>- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
+>- Status: RFV
+>- Date Created: 2021-09-30 (KST)
+>- Date Updated: -
 
 # Summary
 This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a commercial mortgage loan.
 #
 # Author's Information
->Name: Elyloan Corp
-Corporation Registration Number: 220111-0189192
-Wallet Address: 0x9FCdc09bF1e0f933e529325Ac9D24f56034d8eD7
-Website: https://elyloan.co.kr/
-Introduction in brief: We are Elyloan Corp, a lending company. We are in the Lending-Company group in this forum that has been authorized to submit proposals in the NAP category and also put on agendas on the ELYFI voting portal.
+>- Name: Elyloan Corp
+>- Corporation Registration Number: 220111-0189192
+>- Wallet Address: 0x9FCdc09bF1e0f933e529325Ac9D24f56034d8eD7
+>- Website: https://elyloan.co.kr/
+>- Introduction in brief: We are Elyloan Corp, a lending company. We are in the Lending-Company group in this forum that has been authorized to submit proposals in the NAP category and also put on agendas on the ELYFI voting portal.
 
 # Proposal Details
 ### NFT Type 
