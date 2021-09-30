@@ -8,7 +8,7 @@
 >- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
 >- Status: RFV
 >- Date Created: 2021-09-30 (KST)
->- Date Updated: -
+>- Date Updated: 2021-09-30 (KST)
 
 # Summary
 This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a commercial mortgage loan.
