@@ -45,7 +45,7 @@ This is a request for verification for a ABToken to get permission to be used as
 >- Maximum Pledge Amount: $260,645.03
 >
 > **Collateral Info**
->- Collateral Type: Commercial Real Estate
+>- Collateral Type: Apartment
 >- Country code: 82
 >- Collateral Address 1: 20, Yeonhyeon-ro 79beon-gil, Manan-gu, Anyang-si, Gyeonggi-do
 >- Collateral Address 2: 109 dong
