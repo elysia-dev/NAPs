@@ -10,7 +10,7 @@ All NFT Approvement Proposals and their status are archived in the NAPs reposito
 
 ## NAP Template
 
-- 
+- https://github.com/elysia-dev/NAPs/blob/main/Template
 
 ## Resources
 
