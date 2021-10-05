@@ -11,7 +11,7 @@
 >- Date Updated: 2021-10-05 (KST)
 
 # Summary
-This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a commercial mortgage loan.
+This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a mortgage loan.
 #
 # Author's Information
 >- Name: Elyloan Corp
