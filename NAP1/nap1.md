@@ -8,7 +8,7 @@
 >- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
 >- Status: Signed
 >- Date Created: 2021-09-30 (KST)
->- Date Updated: 2021-10-04 (KST)
+>- Date Updated: 2021-10-05 (KST)
 
 # Summary
 This is a request for verification for a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a commercial mortgage loan.
@@ -40,7 +40,7 @@ This is a request for verification for a ABToken to get permission to be used as
 >- Borrowed: $8,424.21
 >- Loan Interest Rate: 9.4%
 >- Overdue Interest Rate: 3%
->- Loan execution Date: September 13, 2022
+>- Loan execution Date: September 13, 2021
 >- Maturity Date: September 13, 2022
 >- Maximum Pledge Amount: $260,645.03
 >
