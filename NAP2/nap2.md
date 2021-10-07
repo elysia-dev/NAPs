@@ -4,9 +4,9 @@
 >- Title: Request for verification of ABToken
 >- Author: [Elyloan Corp](https://forum.elyfi.world/u/elyloancorp/summary)
 >- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
->- Status: Accepted
+>- Status: Signed
 >- Date Created: 2021-10-05 (KST)
->- Date Updated: 2021-10-06 (KST)
+>- Date Updated: 2021-10-07 (KST)
 
 # Summary
 This is a request for verification of a ABToken to get permission to be used as collateral in ELYFI. The ABToken presented in this proposal is tokenized a loan bond formed on the basis of a mortgage loan.
