@@ -4,9 +4,9 @@
 >- Title: Request for verification of ABToken
 >- Author: [Elyloan Corp](https://forum.elyfi.world/u/elyloancorp/summary)
 >- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
->- Status: Verification
+>- Status: Accepted
 >- Date Created: 2021-10-14 (KST)
->- Date Updated: - 
+>- Date Updated: 2021-10-15 (KST)
 
 # Summary
 ---
