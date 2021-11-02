@@ -36,7 +36,7 @@ This is the template for NAP. Proposals will be subject to review after completi
 
 
 > **Lender Info**
->- Corporation Registration Number: < Corporation Registration Number of the lender >
+>- Corporation Registration Number or Wallet Address: < Corporation Registration Number of the lender or Wallet Address >
 >
 > **Loan Info**
 >- Loan Product: < The type of the loan product >
