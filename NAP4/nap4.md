@@ -4,9 +4,9 @@
 >- Title: Request for verification of ABToken
 >- Author: [Elyloan Corp](https://forum.elyfi.world/u/elyloancorp/summary)
 >- Helper: [Jong](https://forum.elyfi.world/u/Jong/summary)
->- Status: Verification
+>- Status: Voting
 >- Date Created: 2021-11-02 (KST)
->- Date Updated: - 
+>- Date Updated: 2021-11-04 (KST)
 
 # Summary
 ---
@@ -32,7 +32,7 @@ This is a request for verification of a ABToken to get permission to be used as 
 
 > **Token Info**
 >- Token ID: 
-115792089237316195422007842550160054474868679478298406281710905248421400102957
+115792089237316195422007842550160054474868679480833707482167364051414806513709
 
 
 > **Lender Info**
@@ -52,10 +52,10 @@ This is a request for verification of a ABToken to get permission to be used as 
 >- Country code: 82
 >- Collateral Address 1: 719-24 Yeoksam2(i)-dong, Gangnam-gu, Seoul
 >- Collateral Address 2: 2nd floor
->- Latitude and Longitude: 37.50088, 127.04064
+>- Latitude and Longitude: 37.50088, 127.04065
 >
 > **Others**
->- ipfsHash: [bafkreibvdj56og6x6mn52trkiuqnvqr7nyjngthp2ikq2umxcfxi7pryie](https://slate.textile.io/ipfs/bafkreibvdj56og6x6mn52trkiuqnvqr7nyjngthp2ikq2umxcfxi7pryie)
+>- ipfsHash: [bafkreih7p3iequuqm3gtiuggohb54vqd5ebixznhdipjkpnu2wzztk7hje](https://slate.textile.io/ipfs/bafkreih7p3iequuqm3gtiuggohb54vqd5ebixznhdipjkpnu2wzztk7hje)
 
 # Reference
 ---
@@ -65,7 +65,7 @@ This is a request for verification of a ABToken to get permission to be used as 
 >- [Certified corporate registration](https://slate.textile.io/ipfs/bafybeicgydltpbqli36hatlyim52ovpfz35yuwpqaauay6tibixhvgxerq)
 
 ### Where to find NFT information 
->- [Etherscan](https://etherscan.io/token/0xc6701e7be98a79485364419961838eb141141aaf?a=115792089237316195422007842550160054474868679478298406281710905248421400102957)
+>- [Etherscan](https://etherscan.io/token/0xc6701e7be98a79485364419961838eb141141aaf?a=115792089237316195422007842550160054474868679480833707482167364051414806513709)
 
 ### Image of the collateral 
 >- [Collateral Image](https://slate.textile.io/ipfs/bafybeigxjlp3v7wrmdefvhfq3pzfclgh74xlikuhw25dqm254eqgug5ggu)
