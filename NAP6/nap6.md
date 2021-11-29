@@ -50,7 +50,7 @@ This is a request for verification of a ABToken to get permission to be used as 
 > **Collateral Info**
 >- Collateral Type: apartment
 >- Country code: 82
->- Collateral Address 1: 614-6 Dongbaek-dong, Giheung-gu, Yongin-si, Gyeonggi-do, Seoul
+>- Collateral Address 1: 614-6 Dongbaek-dong, Giheung-gu, Yongin-si, Gyeonggi-do
 >- Collateral Address 2: 1408
 >- Latitude and Longitude: 37.28336, 127.15412
 >
