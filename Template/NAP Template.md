@@ -1,4 +1,4 @@
-*(updated: September 30, 2021)*
+*(updated: January 14, 2022)*
 
 This is the template for NAP. Proposals will be subject to review after completing the template below.
 
@@ -18,7 +18,9 @@ This is the template for NAP. Proposals will be subject to review after completi
 # Author's Information
 >- Name: < The name of the company >
 >- Corporation Registration Number: < Corporation Registration Number >
->- Wallet Address: < Wallet Address used in ELYFI >
+>- Wallet Address
+>   - Ethereum Mainnet: < Wallet Address used in ELYFI >
+>   - Binance Smart Chain: < Wallet Address used in ELYFI >
 >- Website: < The web address of the author, a lending company >
 >- Introduction in brief: < Introduction in brief >
 
@@ -27,16 +29,17 @@ This is the template for NAP. Proposals will be subject to review after completi
 >- < Type of NFT in this proposal >
 
 ### NFT Owner
->- < The wallet address of the NFT owner >
+>- Network: < Ethereum Mainnet or Binance Smart Chain >
+>- Wallet Address: < The wallet address of the NFT owner >
 
 ### NFT Details
 
 > **Token Info**
 >- Token ID: < ID of the NFT > 
-
+>- Network: < Ethereum Mainnet or Binance Smart Chain >
 
 > **Lender Info**
->- Corporation Registration Number or Wallet Address: < Corporation Registration Number of the lender or Wallet Address >
+>- Corporation Registration Number: < Corporation Registration Number of the lender >
 >
 > **Loan Info**
 >- Loan Product: < The type of the loan product >
@@ -45,7 +48,7 @@ This is the template for NAP. Proposals will be subject to review after completi
 >- Overdue Interest Rate: < Overdue Interest Rate >
 >- Loan execution Date: < Date to get a loan from ELYFI >
 >- Maturity Date: < The end date of the ownership of this asset >
->- Maximum Pledge Amount: < Maximum Pledge Amount >>
+>- Maximum Pledge Amount: < Maximum Pledge Amount >
 >
 > **Collateral Info**
 >- Collateral Type: < Collateral Type >
@@ -58,6 +61,7 @@ This is the template for NAP. Proposals will be subject to review after completi
 >- ipfsHash: < IpfsHash where contract and collateral data is stored >
 
 # Reference
+
 ### Document
 >- Contract image: < Please submit (paste link) a copy of the contract corresponding to this loan. >
 >- Real estate registration information: < Please submit Registration Summary and the Certificate of Real Estate Register corresponding to this loan. >
