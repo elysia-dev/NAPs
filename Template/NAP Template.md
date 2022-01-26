@@ -1,4 +1,4 @@
-*(updated: January 14, 2022)*
+*(updated: January 24, 2022)*
 
 This is the template for NAP. Proposals will be subject to review after completing the template below.
 
@@ -35,8 +35,9 @@ This is the template for NAP. Proposals will be subject to review after completi
 ### NFT Details
 
 > **Token Info**
->- Token ID: < ID of the NFT > 
 >- Network: < Ethereum Mainnet or Binance Smart Chain >
+>- Token ID: < ID of the NFT > 
+
 
 > **Lender Info**
 >- Corporation Registration Number: < Corporation Registration Number of the lender >
